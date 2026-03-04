@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Erick Merino Farfán
+name        : Elvis Hernán Merino Farfán
 role        : QA Automation Engineer
 location    : Piura, Perú 🇵🇪
 experience  : +2 years in financial systems automation
