@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Erick%20Merino%20Farfán&fontSize=42&fontColor=e0f7fa&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Financial%20Systems&descAlignY=58&descSize=16&descColor=80cbc4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Elvis%20Merino%20Farfán&fontSize=42&fontColor=e0f7fa&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Financial%20Systems&descAlignY=58&descSize=16&descColor=80cbc4" width="100%"/>
 
 </div>
 
